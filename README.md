@@ -1,8 +1,3 @@
----
-title: Multi-Stock Comparison Analysis
-output: html_document
----
-
 # Multi-Stock Comparison Analysis
 
 Welcome to the Multi-Stock Comparison Analysis! This Python script helps you dive into the stock performance of three major automotive companies: Tesla (TSLA), Ford (F), and General Motors (GM). Here's a breakdown of what this script does and how to use it:
